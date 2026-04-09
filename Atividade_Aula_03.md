@@ -92,6 +92,64 @@ A ação não é só interna (fome), mas externa (momento certo).
 --- <br/>
 
 
+Teste o Desafio 
+'qual a terceira letra da quinta palavra da frasa "o rato roeu a roupa do rei de roma "?' resolva passo a passo, identifique as palavra, conte ate a quinta e previnir alucinaçoes nao considere artigo como palavra <br/>
+
+
+Boa, agora tem uma regra importante: **não considerar artigos como palavra**.
+
+---
+
+### 1. Frase original
+
+**"o rato roeu a roupa do rei de roma"**
+
+---
+
+### 2. Remover os artigos
+
+Artigos na frase: **"o"** e **"a"**
+
+Frase sem artigos:
+**"rato roeu roupa do rei de roma"**
+
+---
+
+### 3. Separar as palavras
+
+1. rato
+2. roeu
+3. roupa
+4. do
+5. rei ← (quinta palavra)
+6. de
+7. roma
+
+✔️ Conferência: agora são 7 palavras
+
+---
+
+### 4. Identificar a 5ª palavra
+
+A 5ª palavra é: **"rei"**
+
+---
+
+### 5. Pegar a 3ª letra de "rei"
+
+* r (1ª)
+* e (2ª)
+* **i (3ª)**
+
+✔️ Conferência: a palavra tem 3 letras, então a 3ª existe
+
+---
+
+### ✅ Resposta final:
+
+**i**
+
+
 
 
 
