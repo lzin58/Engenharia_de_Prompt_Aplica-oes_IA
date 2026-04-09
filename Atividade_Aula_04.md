@@ -1,4 +1,4 @@
-Prompt Simplis <br/>
+Prompt Simples <br/>
 oq e lavagem de dinheiro
 
 Lavagem de dinheiro é quando alguém tenta **esconder a origem ilegal de um dinheiro**, fazendo ele parecer que foi ganho de forma legal.
