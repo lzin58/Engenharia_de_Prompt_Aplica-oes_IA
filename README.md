@@ -8,5 +8,5 @@ A matéria de Engenharia de Prompt e Aplicação em IA é basicamente sobre apre
  Criar chatbots 🤖
  Automatizar tarefas
  Gerar textos, códigos, imagens
- Usar IA em empresas (marketing, atendimento, etc.)<br/>
+ Usar IA em empresas (marketing, atendimento, etc.) <br/>
  
