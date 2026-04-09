@@ -147,7 +147,7 @@ A 5ª palavra é: **"rei"**
 
 ### ✅ Resposta final:
 
-**i**
+i
 
 
 
